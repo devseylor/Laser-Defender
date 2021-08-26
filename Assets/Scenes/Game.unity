@@ -483,10 +483,6 @@ PrefabInstance:
       propertyPath: joystick
       value: 
       objectReference: {fileID: 792837324}
-    - target: {fileID: 3650352678638214304, guid: bc09ceda482caa447827fefc6535b6ce, type: 3}
-      propertyPath: shootSoundVolume
-      value: 0
-      objectReference: {fileID: 0}
     - target: {fileID: 3650352678638214305, guid: bc09ceda482caa447827fefc6535b6ce, type: 3}
       propertyPath: m_Name
       value: Player

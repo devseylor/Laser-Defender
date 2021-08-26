@@ -98,10 +98,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   moveSpeed: 10
   padding: 1
-  health: 200
+  health: 250
   deathSFX: {fileID: 8300000, guid: 09e8e331def56ec4494887cf7f4252a8, type: 3}
   deathSoundVolume: 0.65
-  shootSoundVolume: 0.1
+  shootSoundVolume: 0
   joystick: {fileID: 0}
   laserPrefab: {fileID: 7016497358259822666, guid: e8018599d31acf84fb0ff5985605d5e7, type: 3}
   projectailSpeed: 45
